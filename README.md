@@ -1,4 +1,4 @@
-# Rigit_body2D_demo
+# Rigid_body2D_demo
 pythonまたはC++を使って既存のライブラリに依存しない、物理演算を一から実装したものです。
 
 python版ではnumpyとpygameの導入が必要です。
